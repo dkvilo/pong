@@ -2,7 +2,7 @@
 
 This is a simple pong game made in a few hours. I hope you enjoy it.
 
-<img src="https://github.com/dkvilo/dk_pong/blob/master/images/prev.png" />
+<img src="https://github.com/dkvilo/pong/blob/master/images/prev.png" />
 
 ## Player 1 Controls
 
